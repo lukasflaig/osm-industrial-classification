@@ -39,7 +39,7 @@ python main.py
 - Der Ordner `database_germany_all/` enthält die Datenbasis und Zwischenergebnisse der Pipeline.
 - Der Ordner `secrets/` enthält die Zugangsschlüssel zum LLM, das in der Google Cloud gehostet wird. Diese Dateien werden nicht zur Verfügung gestellt.
 - Die `.osm.pbf`-Dateien müssen manuell heruntergeladen und im Ordner `data/` abgelegt werden. Die Dateien können von [Geofabrik](https://download.geofabrik.de/) heruntergeladen werden.
-- Da der Datensatz als `.zip`-Datei zu groß für GitHub ist, muss dieser manuell heruntergeladen und im Ordner `data/` entpackt werden. Der Datensatz hier heruntergeladen werden: [Industrieflächen-Datensatz](https://studfrauasde.sharepoint.com/:u:/s/GEOAI/EdJlRrPqymFLtP72uX8q7BYB_fl6EWkIhcMeMTUCkAFM7Q?e=QqMeqR)
+- Da der Datensatz als `.zip`-Datei zu groß für GitHub ist, muss dieser manuell heruntergeladen und im Ordner `data/` entpackt werden. Der Datensatz kann hier heruntergeladen werden: [Industrieflächen-Datensatz](https://studfrauasde.sharepoint.com/:u:/s/GEOAI/EdJlRrPqymFLtP72uX8q7BYB_fl6EWkIhcMeMTUCkAFM7Q?e=QqMeqR)
 
 ## Abhängigkeiten
 
